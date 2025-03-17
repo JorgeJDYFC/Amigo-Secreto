@@ -40,9 +40,11 @@ Los nombres de igual forma siempre seran visibles en forma de lista para corrobo
 - Hacer un display del amigo secreto en la pantalla.
 
 Mensaje de error:
+
 ![Mensaje de error](https://github.com/user-attachments/assets/d8648604-4b75-42c9-9479-6c122e284ee9)
 
 Sorteo del nombre y display del resultado:
+
 ![Resultado](https://github.com/user-attachments/assets/9e7ee058-eb3c-45f5-a52d-6b26630f40eb)
 
 
